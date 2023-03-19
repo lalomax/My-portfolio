@@ -1,13 +1,16 @@
 {
   "name": "project",
-  "dependencies": {},
   "devDependencies": {
-    "vite": "latest"
+    "gh-pages": "^5.0.0",
+    "vite": "latest",
+    "homepage": "https://lalomax.github.io/My-portfolio/"
   },
   "scripts": {
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   }
 }
