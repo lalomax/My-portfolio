@@ -8,7 +8,7 @@ $ npm start
 ````
 
 Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## About Me
 
 I'm a web developer and learning enthusiast based out of Bolivia, BO. I love building apps that solve real-world problems, and that are delightful to use. My specialities include React JS, Tailwind CSS, and Styled Components.
 
